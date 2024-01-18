@@ -1,0 +1,18 @@
+[submodule "contrib/luajit"]
+	path = contrib/luajit
+	url = https://github.com/LuaJIT/LuaJIT.git
+[submodule "contrib/tinyformat"]
+	path = contrib/tinyformat
+	url = https://github.com/c42f/tinyformat.git
+[submodule "contrib/xorstr"]
+	path = contrib/xorstr
+	url = https://github.com/JustasMasiulis/xorstr.git
+[submodule "contrib/renderer"]
+	path = contrib/renderer
+	url = https://github.com/ev0lve/renderer.git
+[submodule "contrib/minhook"]
+	path = contrib/minhook
+	url = https://github.com/TsudaKageyu/minhook.git
+[submodule "contrib/cs2_dumper"]
+	path = contrib/cs2_dumper
+	url = https://github.com/panzerfaust1/cs2_dumper.git
